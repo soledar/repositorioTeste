@@ -3,4 +3,13 @@ Novo arquivo versão 1
 Arquivo editado pelo GitHub
 
 Versão 2
+<<<<<<< HEAD
 Primeira Edição
+=======
+
+ahahahahah
+eheheheheh
+ihihihihih
+ohohohohoh
+uhuhuuhhuh
+>>>>>>> ramo01
